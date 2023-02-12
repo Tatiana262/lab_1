@@ -1,1 +1,1 @@
-Conflict!
+Conflict is resolved!
