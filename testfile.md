@@ -1,2 +1,4 @@
 Conflict!!!
-It's conflict((((
+It's conflict(((
+I edit the file
+There are no conflicts)))
