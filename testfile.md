@@ -1,1 +1,1 @@
-Conflict is resolved!
+I edit the file
